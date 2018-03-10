@@ -18,5 +18,4 @@ every RPG I find. A perfect Sunday afternoon would involve watching my Boston Br
 sampling the lastest tea I've bought from yet another fancy-schmancy teahouse-- all the while knowing
 that a rib-eye steak will be served for dinner.   
 
-[back](./)
 
