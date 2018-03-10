@@ -1,5 +1,6 @@
 title: Skylar Shyu
 description: Lorem ipsum description!
+courses: courses.md
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-dinky
