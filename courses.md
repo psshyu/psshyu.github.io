@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Coursework
-#####Links lead to GitHub repos
+##### Links lead to GitHub repos
 
 *   [CS 5530 - Database Systems](https://github.com/psshyu/CS5530)
 *   [CS 5340 - Natural Language Processing](https://github.com/psshyu/CS5340)
