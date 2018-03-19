@@ -466,6 +466,10 @@ a.genericbuttons {
   padding: 2px 2px 2px 22px;
   height: 30px; }
 
+a.linkedin {
+  background: url(../images/linkedin.png) no-repeat 1px;
+}
+
 a.github {
   background: url(../images/octocat-small.png) no-repeat 1px; }
 
