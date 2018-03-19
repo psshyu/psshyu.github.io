@@ -5,7 +5,7 @@ layout: default
 ## Coursework
 #####Links lead to GitHub repos
 
-*   CS 5530 - Database Systems
+*   [CS 5530 - Database Systems](https://github.com/psshyu/CS5530)
 *   [CS 5340 - Natural Language Processing](https://github.com/psshyu/CS5340)
 *   [CS 4540 - Web Software Architecture](https://github.com/psshyu/CS4540)
 *   [CS 4400 - Computer Systems](https://github.com/psshyu/CS4400)
