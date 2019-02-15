@@ -5,9 +5,9 @@ layout: default
 ## Projects
 
 ### Final Fantasy XIV Cross-World Hunt App
-##### [http://crossworld-hunts-xiv.herokuapp.com](http://crossworld-hunts-xiv.herokuapp.com/)
-##### [Git Repo](https://github.com/psshyu/crossworld-hunt-xiv)
-###### aka "...has anyone seen Squonk?"
+* [http://crossworld-hunts-xiv.herokuapp.com](http://crossworld-hunts-xiv.herokuapp.com/)
+* [Git Repo](https://github.com/psshyu/crossworld-hunt-xiv)
+
 
 This application aims to bring the information from the following three sites together:
 * [Ariyala's Hunt Tracker](https://ffxiv.ariyala.com/HuntTracker/Gilgamesh)
@@ -39,9 +39,9 @@ It will include tools to backtrack environmental conditions surrounding a mob's 
 
 
 ### U.S. Source Rock Geochemical Data Visualization
-##### [https://psshyu.github.io/dataviscourse-GeochemOilandGas/](https://psshyu.github.io/dataviscourse-GeochemOilandGas/)
-##### [Git Repo](https://github.com/psshyu/dataviscourse-GeochemOilandGas)
-##### [Screencast](https://youtu.be/4HY0Ihaf76M)
+* [https://psshyu.github.io/dataviscourse-GeochemOilandGas/](https://psshyu.github.io/dataviscourse-GeochemOilandGas/)
+* [Git Repo](https://github.com/psshyu/dataviscourse-GeochemOilandGas)
+* [Screencast](https://youtu.be/4HY0Ihaf76M)
 
 This project visualizes U.S. source rocks geochemical data (TOC, S1, S2, etc.) by displaying the data interactively, facilitating the analysis/exploration of the data at different scales: data point, oil well and basin-wise. As the audience and information are quite niche, there are a few terms of art that you might want to familiarize yourself with in the 'About' page of the site before diving into the data.
 
@@ -49,3 +49,4 @@ Or, you know, if you're here to poke around and play with the data viz, you just
 
 
 ### Course Watcher
+A quick and dirty script that periodically polls University of Utah classes to see if someone has dropped a class. Some of the classes don't have waitlists, so this app pushes a notification to me when there is a seat in a class I am watching. 
